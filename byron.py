@@ -1,1 +1,1 @@
-print('Byron sylvan Mahinya')
+print('Byron  Mahinya')
